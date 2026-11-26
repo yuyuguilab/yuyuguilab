@@ -4,7 +4,7 @@
 
 Independent research program on AGI concept analysis, theory construction, and AI R&D measurement, by **Yugui Yu** (余玉桂, ORCID [0009-0001-7217-4179](https://orcid.org/0009-0001-7217-4179)).
 
-Six papers, one program: the **human-referential fitting theory** (AGI 人本拟合论) — the claim that AGI should be measured against human practice rather than works, and that concept confusion (world models, machine mind, AGI itself) is the real bottleneck of frontier AI discourse.
+Seven papers, one program: the **human-referential fitting theory** (AGI 人本拟合论) — the claim that AGI should be measured against human practice rather than works, and that concept confusion (world models, machine mind, AGI itself) is the real bottleneck of frontier AI discourse.
 
 | # | Paper | DOI | Repo |
 |---|-------|-----|------|
@@ -14,6 +14,7 @@ Six papers, one program: the **human-referential fitting theory** (AGI 人本拟
 | ④ | Two Different Goals: Dissociating the Machine Mind from Artificial Intelligence | [10.5281/zenodo.23969047](https://doi.org/10.5281/zenodo.23969047) | [machine-heart-two-goals](https://github.com/yuyuguilab/machine-heart-two-goals) |
 | ⑤ | Four Concepts, Four Types: Levels, Boundaries, and a Translation Protocol | [10.5281/zenodo.24096361](https://doi.org/10.5281/zenodo.24096361) | [four-concepts](https://github.com/yuyuguilab/four-concepts) |
 | ⑥ | World Models: Definition, Clarification, Distinction, and Boundaries | [10.5281/zenodo.24384106](https://doi.org/10.5281/zenodo.24384106) | [world-models](https://github.com/yuyuguilab/world-models) |
+| ⑦ | Embodied Intelligence: Definition, Clarification, Criteria, and Boundaries | [10.5281/zenodo.24554632](https://doi.org/10.5281/zenodo.24554632) | [embodied-intelligence](https://github.com/yuyuguilab/embodied-intelligence) |
 
 ## Bilingual explainers
 

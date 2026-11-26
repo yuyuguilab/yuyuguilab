@@ -4,7 +4,7 @@
 
 **YYG Strategy Lab**——余玉桂（ORCID [0009-0001-7217-4179](https://orcid.org/0009-0001-7217-4179)）的独立研究项目。
 
-六篇论文，一个纲领：**AGI 人本拟合论**——AGI 应当以人类实践、而非作品为测量基准；前沿 AI 话语的真正瓶颈是概念混乱（世界模型、机器之心、AGI 本身）。
+七篇论文，一个纲领：**AGI 人本拟合论**——AGI 应当以人类实践、而非作品为测量基准；前沿 AI 话语的真正瓶颈是概念混乱（世界模型、机器之心、AGI 本身）。
 
 | # | 论文 | DOI | 仓库 |
 |---|------|-----|------|
@@ -14,6 +14,7 @@
 | ④ | 两个不同的目标：机器之心与人工智能的概念解绑 | [10.5281/zenodo.23969047](https://doi.org/10.5281/zenodo.23969047) | [machine-heart-two-goals](https://github.com/yuyuguilab/machine-heart-two-goals) |
 | ⑤ | 四个概念，四种类型：层次、边界与转译协议 | [10.5281/zenodo.24096361](https://doi.org/10.5281/zenodo.24096361) | [four-concepts](https://github.com/yuyuguilab/four-concepts) |
 | ⑥ | 世界模型：定义、澄清、区别与边界 | [10.5281/zenodo.24384106](https://doi.org/10.5281/zenodo.24384106) | [world-models](https://github.com/yuyuguilab/world-models) |
+| ⑦ | 具身智能：定义、澄清、判据与边界 | [10.5281/zenodo.24554632](https://doi.org/10.5281/zenodo.24554632) | [embodied-intelligence](https://github.com/yuyuguilab/embodied-intelligence) |
 
 ## 双语讲解帖
 
